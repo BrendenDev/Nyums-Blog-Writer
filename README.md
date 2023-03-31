@@ -1,2 +1,2 @@
 # Personal-Blog-Writer
-Tool to write blogs to my personal blog site
+Electron based application to write blogs to my personal blog site
