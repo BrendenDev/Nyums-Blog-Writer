@@ -1,0 +1,22 @@
+{
+  "name": "nyums-blog-writer",
+  "version": "1.0.0",
+  "description": "application to write to nyums dev blog",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendenDev/Personal-Blog-Writer.git"
+  },
+  "author": "BrendenDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrendenDev/Personal-Blog-Writer/issues"
+  },
+  "homepage": "https://github.com/BrendenDev/Personal-Blog-Writer#readme",
+  "dependencies": {
+    "electron": "^23.2.1"
+  }
+}
